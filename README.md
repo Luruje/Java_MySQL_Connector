@@ -1,5 +1,6 @@
 # Java_MySQL_Connector
-  
-Zaprojektowany przy użyciu biblioteki Swing interfejs bazy danych MySQL, dający użytkownikowi wgląd do bazy danych i umożliwiający wykonywanie podstawowych zapytań.  
+ 
+Window app created with Java Swing. 
+The idea was to create a simple 'GUI' which shows the data in MySql DB and allows to modify the data in DB using this GUI, instead of queries.
 
-Celem projektu było zapoznanie się z zasadami współpracy języka Java i bazy danych MySQL przy wykorzystaniu MySQL Connector.  
+Just some old stuff which served me as a 'battlefield' for getting to know better old ways of connecting with DB - without hibernate, but with MySQL Connector :)
